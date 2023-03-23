@@ -20,4 +20,4 @@ function getCount(str) {
     }
     
   }
-  console.log(getCount("saya ingin makan nasi padangq   "))
+  console.log(getCount("saya ingin makan nasi padang   "))
